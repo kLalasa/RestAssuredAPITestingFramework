@@ -15,14 +15,12 @@ Restful Booker API Automation with Java and Rest Assured
 ### Automation  Testcases
 <<<<<<< HEAD
  Hybrid Framework is used to Automate Testcases
-1. Payload Management
-=======
+
 Frame work used -Hybrid Framework to Automate Testcases
-1.Payload Management
->>>>>>> ec2083764c392dbf5d3b7d9b3e5772c791ce6795
-2. Reading from Excel file
-3. Allure Reporting
-4. Jenkins file(It can run on Jenkins also)
+  1. Payload Management
+  2. Reading from Excel file
+  3. Allure Reporting
+  4. Jenkins file(It can run on Jenkins also)
 
 #### Integration Scenario
  1. Get the token from Post Request
