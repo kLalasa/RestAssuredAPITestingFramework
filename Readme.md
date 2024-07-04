@@ -40,5 +40,8 @@ https://restful-booker.herokuapp.com/apidoc/index.html
 #### Utils
   - Reading Excel file Code
   -  Reading Json
+#### Allure Report
+  -  Screen shot![Screenshot 2024-07-04 190306](https://github.com/kLalasa/RestAssuredAPITestingFramework/assets/90886607/c7901f89-3093-4964-933f-0bfd6e697272)
+
 
 
