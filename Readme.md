@@ -13,8 +13,7 @@ Use the following
 #### Project Details
 Restful Booker API Automation with Java and Rest Assured
 ### Automation  Testcases
-<<<<<<< HEAD
- Hybrid Framework is used to Automate Testcases
+
 
 Frame work used -Hybrid Framework to Automate Testcases
   1. Payload Management
