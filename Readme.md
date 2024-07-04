@@ -13,7 +13,7 @@ Use the following
 #### Project Details
 Restful Booker API Automation with Java and Rest Assured
 ### Automation  Testcases
-We are using Hybrid Framework to Automate Testcases
+Frame work used -Hybrid Framework to Automate Testcases
 1.Payload Management
 2. Reading from Excel file
 3. Allure Reporting
